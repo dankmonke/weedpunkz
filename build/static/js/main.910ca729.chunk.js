@@ -1,0 +1,2 @@
+(this["webpackJsonpweedpunk-website"]=this["webpackJsonpweedpunk-website"]||[]).push([[0],[function(e,n,t){},function(e,n,t){"use strict";t.r(n);t(0);(function(e){e&&e instanceof Function&&t.e(2).then(t.bind(null,2)).then((function(n){var t=n.getCLS,i=n.getFID,s=n.getFCP,u=n.getLCP,c=n.getTTFB;t(e),i(e),s(e),u(e),c(e)}))})()}],[[1,1]]]);
+//# sourceMappingURL=main.910ca729.chunk.js.map
